@@ -1,4 +1,4 @@
-### Asgard AWS Infrastructure
+# Asgard AWS Infrastructure
 
 Contained in this repo are the necessary Terraform configurations to deploy needed AWS resources.
 
