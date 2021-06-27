@@ -3,10 +3,6 @@ variable "region" {
     description = "AWS Region to deploy resources"
 }
 
-variable "github_token" {
-    description = "GitHub Token used to authenticate with modules"
-}
-
 variable "public_whitelist" {
     type = list(string)
 

@@ -15,8 +15,3 @@ provider "aws" {
   profile = "asgard"
   region  = var.region
 }
-
-provider "github" {
-  organization = "NPS"
-  token        = var.github_token
-}
